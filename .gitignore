@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+ketqua/
+.trang_thai_quet.json
+.venv/
+venv/
+*.xlsx
